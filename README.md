@@ -39,7 +39,7 @@ docker build -t data-team-service .
 
 ### api-service
 
-Execute the docker build command inside root dir.
+Execute the docker compose up command inside root dir.
 
 ```
 docker compose up
