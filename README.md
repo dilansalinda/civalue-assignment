@@ -32,7 +32,7 @@ http://localhost:8081/api/v1/products
 
 ### data-team-service
 
-Execute the docker build command inside root dir.
+Exeute ```./gradlew build``` command inside root dir. After that,Execute the docker build command inside root dir.
 ```
 docker build -t data-team-service .
 ```
